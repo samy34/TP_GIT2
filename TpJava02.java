@@ -7,6 +7,7 @@ public class TpJava02 {
 		//Convertir un entier en float 
 		int x1 = 1234;
 		int x2 = 123456798;
+		int x3;
 
 		float y1 = x1;
 		float y2 = x2;
